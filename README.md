@@ -1,1 +1,2 @@
-# socket-6-node-js
+# module-6-socket-app
+
